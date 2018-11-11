@@ -19,4 +19,4 @@ H. *sapiens*    |human, sequenced in 2001 |3,257.32 | Homo Sapiens | 22 + 2 sex 
 SARS            |coronavirus, sequenced in 2003       | 0.029751  |Severe acute respiratory syndrome-related coronavirus||
 *Prion*| Protein encoded by the PRNP (prion protein) gene | 0.02| Accessed via the custom human genome [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) - search for PRNP |Protein misfolding behind the human form of the mad cow [disease](https://www.ncbi.nlm.nih.gov/pubmed/29478593/) - not an organism
 
- 
+Continuing the exploration: PRPN FASTA sequence from the earlier link is [here](https://www.ncbi.nlm.nih.gov/nuccore/NC_000020.11?report=fasta&from=4686094&to=4701590). The gene covers (with 2 exons) basepairs from 4686094 to 4701590, a length of 15496. 
