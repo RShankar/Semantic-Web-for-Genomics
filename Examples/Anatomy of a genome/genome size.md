@@ -6,7 +6,7 @@ Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/).
 |:-------------:|:-----------------------------------:|:-----------:|:-------------------:|:----------:|
 |phage phiXI74  |1st viral genome sequenced in 1978   |  0.005388           | Enterobacteria phage phiX174
 |human mtDNA    |1st organelle genome, many copies/cell |0.02             | Homo Sapiens|  Organelle genome; Application -Phylogeny|
-|lambda phage   |important virus model               |  0.049205           | Escherichia virus Lambda |
+|lambda phage   |important virus model               |  0.049205           | Escherichia virus Lambda |FASTA protein [sequence](https://www.ncbi.nlm.nih.gov/protein/P03733.1?report=fast)
 |HIV            |AIDS retrovirus, sequenced in 1985.  |  0.00925 to 0.011443           |Three listed| Subject of a recent movie: Bohemian Rhapsody
 |H. *influenzae* |1st bacterial genome sequenced in '95| 1.83014     |	Haemophilus influenzae
 |H. *genitalium*|smallest bacterial genome            |
