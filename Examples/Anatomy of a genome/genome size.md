@@ -2,11 +2,11 @@ Table 1.1 from Christianini and Hahn lists some genomes discussed in their book:
 
 Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). Use the filter on the right hand side to limit to: 
 
-| Organism      |Description                          |Size         |Comments                                         |
+| Organism      |Description                          |Size (Mb)        |Comments                                         |
 |:--------------|:------------------------------------|:------------|:-----------------------------------------------:|
-|phage phiXI74  |1st viral genome sequenced in 1978   | 
-|human mtDNA    |1st organelle genome                 |             | multiple copies per cell; Application -Phylogeny|
-|lambda phage   |important virus model)               |             |
+|phage phiXI74  |1st viral genome sequenced in 1978   |  0.005388           |listed @NSBI as: Enterobacteria phage phiX174
+|human mtDNA    |1st organelle genome, many copies/cell |0.02             | 24th Chr @NCBI ; Application -Phylogeny|
+|lambda phage   |important virus model               |  0.049205           |listed @NCBI as: 	Escherichia virus Lambda. lambda phage OK
 |HIV            |AIDS retrovirus, sequenced in 1985.  |             |Subject of a recent movie: Bohemian Rhapsody
 |H. *Inluenzae* |1st bacterial genome sequenced in '95|
 |H. *genitalium*|smallest bacterial genome            |
@@ -18,4 +18,4 @@ A. *thaliana*   |thale cress, model plant
 H. *sapiens*    |human, sequenced in 2001
 SARS            |coronavirus, sequenced in 2003       |
 
-
+Filter at the NCBI site with these names: Enterobacteria phage phiX174, homo sapiens (for both nuclear and mitochondial DNA), 
