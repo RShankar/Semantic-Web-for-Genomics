@@ -1,6 +1,6 @@
 Table 1.1 from Christianini and Hahn lists some genomes discussed in their book:
 
-Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). Use the filter on the right hand side to limit to: 
+Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). Use the filter on the right hand side to limit search. Use the entry under 'Comments' section. The Human genome has a custom [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) 
 
 | Organism      |Description                          |Size (Mb)        |Listed @ NCBI as: | Comments |                                    
 |:-------------:|:-----------------------------------:|:-----------:|:-------------------:|:----------:|
@@ -15,7 +15,8 @@ Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/).
 C. *trachomatis*|internal parasite of eukaryotes      |
 |D.*melanogaster*| fruit fly, model insect            |  143.726         |Drosophila melanogaster | 6 + 2 sex + 1 Mito Chromosomes
 A. *thaliana*   |thale cress, model plant
-H. *sapiens*    |human, sequenced in 2001 |3,257.32 | 21 + 2 sex + 1 Mito chromosomes
-SARS            |coronavirus, sequenced in 2003       |
+H. *sapiens*    |human, sequenced in 2001 |3,257.32 | Homo Sapiens | 22 + 2 sex + 1 Mito chromosomes.[Useful link](https://www.ncbi.nlm.nih.gov/genome/51)||
+SARS            |coronavirus, sequenced in 2003       | 0.029751  |Severe acute respiratory syndrome-related coronavirus||
+Prion| Protein encoded by PRNP prion protein gene | | Accessed via the custom human genome [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) - search for PRNP
 
 Filter at the NCBI site with these names: Enterobacteria phage phiX174, homo sapiens (for both nuclear and mitochondial DNA), 
