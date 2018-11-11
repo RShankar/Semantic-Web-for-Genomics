@@ -1,0 +1,21 @@
+Table 1.1 from Christianini and Hahn lists some genomes discussed in their book:
+
+Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). Use the filter on the right hand side to limit to: 
+
+| Organism      |Description                          |Size         |Comments                                         |
+|:--------------|:------------------------------------|:------------|:-----------------------------------------------:|
+|phage phiXI74  |1st viral genome sequenced in 1978   | 
+|human mtDNA    |1st organelle genome                 |             | multiple copies per cell; Application -Phylogeny|
+|lambda phage   |important virus model)               |             |
+|HIV            |AIDS retrovirus, sequenced in 1985.  |             |Subject of a recent movie: Bohemian Rhapsody
+|H. *Inluenzae* |1st bacterial genome sequenced in '95|
+|H. *genitalium*|smallest bacterial genome            |
+|S. *cerevisiae*|1st eukaryotic genome sequenced in'96|
+|E. *coli k 12  | bacterial model organism            |
+C. *trachomatis*|internal parasite of eukaryotes      |
+|D.*melanogaster*| fruit fly, model insect            |             |Drosophila
+A. *thaliana*   |thale cress, model plant
+H. *sapiens*    |human, sequenced in 2001
+SARS            |coronavirus, sequenced in 2003       |
+
+
