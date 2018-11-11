@@ -13,9 +13,9 @@ Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/).
 |S. *cerevisiae*|1st eukaryotic genome sequenced in'96|
 |E. *coli k 12*  | bacterial model organism            | 5.5946     |	Escherichia coli
 C. *trachomatis*|internal parasite of eukaryotes      |
-|D.*melanogaster*| fruit fly, model insect            |             |Drosophila melanogaster | 6 + 2 sex + 1 Mito Chromosomes
+|D.*melanogaster*| fruit fly, model insect            |  143.726         |Drosophila melanogaster | 6 + 2 sex + 1 Mito Chromosomes
 A. *thaliana*   |thale cress, model plant
-H. *sapiens*    |human, sequenced in 2001
+H. *sapiens*    |human, sequenced in 2001 |3,257.32 | 21 + 2 sex + 1 Mito chromosomes
 SARS            |coronavirus, sequenced in 2003       |
 
 Filter at the NCBI site with these names: Enterobacteria phage phiX174, homo sapiens (for both nuclear and mitochondial DNA), 
