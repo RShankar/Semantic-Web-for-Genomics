@@ -1,6 +1,6 @@
 Table 1.1 from Christianini and Hahn lists some genomes discussed in their book:
 
-Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). Use the filter on the right hand side to limit search. Use the entry under 'Comments' section. The Human genome has a custom [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) 
+Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). Use the filter on the right hand side to limit search. Use the entry under 'Comments' section. Note: The Human genome has a custom [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) also. 
 
 | Organism      |Description                          |Size (Mb)        |Listed @ NCBI as: | Comments |                                    
 |:-------------:|:-----------------------------------:|:-----------:|:-------------------:|:----------:|
@@ -17,6 +17,6 @@ C. *trachomatis*|internal parasite of eukaryotes      |
 A. *thaliana*   |thale cress, model plant
 H. *sapiens*    |human, sequenced in 2001 |3,257.32 | Homo Sapiens | 22 + 2 sex + 1 Mito chromosomes.[Useful link](https://www.ncbi.nlm.nih.gov/genome/51)||
 SARS            |coronavirus, sequenced in 2003       | 0.029751  |Severe acute respiratory syndrome-related coronavirus||
-Prion| Protein encoded by PRNP prion protein gene | | Accessed via the custom human genome [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) - search for PRNP
+Prion| Protein encoded by PRNP prion protein gene | 0,02| Accessed via the custom human genome [resource](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) - search for PRNP |Protein misfolding behind the human form of the mad cow disease
 
-Filter at the NCBI site with these names: Enterobacteria phage phiX174, homo sapiens (for both nuclear and mitochondial DNA), 
+ 
