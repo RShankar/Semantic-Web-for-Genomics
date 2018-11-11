@@ -11,9 +11,9 @@ Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/).
 |H. *influenzae* |1st bacterial genome sequenced in '95| 1.83014     |	Haemophilus influenzae
 |H. *genitalium*|smallest bacterial genome            |
 |S. *cerevisiae*|1st eukaryotic genome sequenced in'96|
-|E. *coli k 12  | bacterial model organism            |
+|E. *coli k 12*  | bacterial model organism            | 5.5946     |	Escherichia coli
 C. *trachomatis*|internal parasite of eukaryotes      |
-|D.*melanogaster*| fruit fly, model insect            |             |Drosophila
+|D.*melanogaster*| fruit fly, model insect            |             |Drosophila melanogaster | 6 + 2 sex + 1 Mito Chromosomes
 A. *thaliana*   |thale cress, model plant
 H. *sapiens*    |human, sequenced in 2001
 SARS            |coronavirus, sequenced in 2003       |
