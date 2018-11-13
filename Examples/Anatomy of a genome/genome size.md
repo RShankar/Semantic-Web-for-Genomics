@@ -7,7 +7,6 @@ Go to this NCBI [list](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/).
 |phage phiXI74  |1st viral genome sequenced in 1978   |  0.005388           | Enterobacteria phage phiX174
 |human mtDNA    |1st organelle genome, many copies/cell |0.02             | Homo Sapiens|  Organelle genome; Application -Phylogeny|
 |lambda phage   |important virus model               |  0.049205           | Escherichia virus Lambda |FASTA nucleotide [sequence](https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1?report=fasta). GC content difference is used to denature self DNA to inject into a bacterial cell. GC content [mapper](https://www.biologicscorp.com/tools/GCContent/#.W-iJgRSVuxQ). 
-
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Anatomy%20of%20a%20genome/Screenshot_2018-11-11%20GC%20Content%20Calculator%20-%20Online%20Analysis%20and%20Plot%20Tool%20-%20BiologicsCorp.png "GC map 3000 bp window")
 |HIV            |AIDS retrovirus, sequenced in 1985.  |  0.00925 to 0.011443           |Three listed| Subject of a recent movie: Bohemian Rhapsody
 |H. *influenzae* |1st bacterial genome sequenced in '95| 1.83014     |	Haemophilus influenzae
