@@ -14,4 +14,6 @@ Gene Annotations: Gene finding: ORF is easier to identify for prokaryotic genome
 
 Any gene-finding algorithm needs to locate ORFs on both strands - that is, search also the second 5' to 3' sequence that is complementary to the strand given by GenBank or other DNA databases. (Some databases give both - See the NIH lecture series). 
 
-Example 2.4: **Find ORFs in the M. genitialium genome**: Download the genome sequence [here](https://www.ncbi.nlm.nih.gov/genome/474). Saved in this folder.  Go to [ORF Finder](https://www.ncbi.nlm.nih.gov/orffinder/). Either upload this FASTA sequence or provide the accession #: NC_000908.2 . Choose the Minimal ORF as 150 (default is 75; will now run faster). Result is documented here: ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Gene%20Finding/Screenshot_2018-11-11%20Viewer%20-%20ORFfinder%20-%20NCBI.png "ORFs with min of 150 AA")
+Example 2.4: **Find ORFs in the M. genitialium genome**: Download the genome sequence [here](https://www.ncbi.nlm.nih.gov/genome/474). Saved in this folder.  Go to [ORF Finder](https://www.ncbi.nlm.nih.gov/orffinder/). Either upload this FASTA sequence or provide the accession #: NC_000908.2 . Choose the Minimal ORF as 150 (default is 75; will now run faster). Result is documented here: 
+
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Gene%20Finding/Screenshot_2018-11-11%20Viewer%20-%20ORFfinder%20-%20NCBI.png "ORFs with min of 150 AA")
