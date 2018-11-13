@@ -7,7 +7,9 @@ Click on the Tools and Resources tab on the home page. Scroll down and click on 
 Now Try REVIGO [here](http://revigo.irb.hr/). Click on GoTermFinder on the right hand side. Entered PAX and HOX on two separate lines with <Enter>, and choose Fruit fly. The two genes were shown to appear together at p < 0.01 in three GO terms. 
 Table and Tree views from the site are provided below
 
-![alt text]
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/Table%20HOX%20PAX%203%20GO%20terms.png "Table for HOX and PAX GO term linkages")
+
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/Tree%20HOX%20PAX%203%20GO%20Terms.png "Tree for HOX and PAX Go term linkages")
 
 
 
