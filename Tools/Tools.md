@@ -17,7 +17,11 @@ Also read the help documentation (see the iink for 'help document'). I also trie
 
 Then go to amigo website and click on the 'Browse Ontoloty' Go button. Click on 'Biologial Process' (since the tree refers to this sub-ontology) and expand to the common ancestor term: striated muscle-cell differentiation. Click on the term and a small window opens up. Click on the Term entry there. it will take you to a page with more details for this GO item (GO:0051146). Links are provided on that page, along with description of the Go term. You can also retrieve and download the Gene products dataset (on another [web page](http://amigo.geneontology.org/amigo/term/GO:0051146), you can select the fields that you wish to download). The download is probably a CSV file meant to be processed, not visually examined. Here is a an  image of a filtered list for each of HOX and PAX (most of the annotations attached to this GO term are not relevant).
 
+*PAX* list:
+
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/PAX%20list%20across%20species.png "PAX list")
+
+*HOX* list:
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/HOX%20list%20across%20species.png "HOX list")
 
