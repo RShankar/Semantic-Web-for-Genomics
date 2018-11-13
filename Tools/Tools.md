@@ -4,7 +4,8 @@ Click on 'Advanced Search' and select "Annotations' from the drop down menu. Ent
 
 Click on the Tools and Resources tab on the home page. Scroll down and click on 'Term enrishment services.' It takes to a new page (PANTHER Classification System). Enter PAX and HOX in the upper box. Choose human and fruitfly as the species (I chose another one too, for variety). Under analysis, choose:  Functional classification viewed in gene list. Click on the next page: PAX orthologs. It gives a long list that includes all species (not sure why). It is a growth factor (in common). 
 
-Now Try REVIGO [here](http://revigo.irb.hr/). Click on GoTermFinder on the right hand side. Entered PAX and HOX on two separate lines with <Enter>, and choose Fruit fly. The two genes were shown to appear together at p < 0.01 in three GO terms. 
+Now Try REVIGO [here](http://revigo.irb.hr/). Click on GoTermFinder on the right hand side. Entered PAX and HOX on two separate lines with <Enter>, and choose Fruit fly. The two genes were shown to appear together at p < 0.01 in three GO terms as listed here (Out of 37 found). The complete list is [here]()
+
 Table and Tree views from the site are provided below
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/Table%20HOX%20PAX%203%20GO%20terms.png "Table for HOX and PAX GO term linkages")
