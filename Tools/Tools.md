@@ -17,8 +17,8 @@ Also read the help documentation (see the iink for 'help document'). I also trie
 
 Then go to amigo website and click on the 'Browse Ontoloty' Go button. Click on 'Biologial Process' (since the tree refers to this sub-ontology) and expand to the common ancestor term: striated muscle-cell differentiation. Click on the term and a small window opens up. Click on the Term entry there. it will take you to a page with more details for this GO item (GO:0051146). Links are provided on that page, along with description of the Go term. You can also retrieve and download the Gene products dataset (on another [web page](http://amigo.geneontology.org/amigo/term/GO:0051146), you can select the fields that you wish to download). The download is probably a CSV file meant to be processed, not visually examined. Here is a an  image of a filtered list for each of HOX and PAX (most of the annotations attached to this GO term are not relevant).
 
-![alt text]( "PAX list")
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/PAX%20list%20across%20species.png "PAX list")
 
-![alt text]( "Hox list")
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Images/HOX%20list%20across%20species.png "HOX list")
 
 Additional information: AmiGO 2 also provides desktop/personal web-based set of tools for searching, browsing, and curating the Gene Ontology database. It has been implemented in Node, the server backend for JavaScript. Detailed installation instructions are provided for Ubuntu installation [here](http://wiki.geneontology.org/index.php/AmiGO_2_Manual:_Installation_(2.4.x)). For a specific curation objective (as an example), click on 'overview documentation' link on the About tab on the Amigo 2 [home](http://amigo.geneontology.org/amigo) page. Click on a link on the left hand side: 'Phylogenetic Annotation.'  The tool is described in this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178059/pdf/bbr042.pdf). It can be downloaded and installed from [here](http://paintcuration.usc.edu/), if you wish to be a curator. 
