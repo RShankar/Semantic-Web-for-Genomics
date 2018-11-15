@@ -8,8 +8,10 @@ Use of BLAST to find orthologs: Go the NCBI Sequence Identifiers [web page](http
 
 Clicking on 'Mus musculus' on the right hand side gives only for the house mouse. Note the change in 'search Details' to: "Pax3[All Fields] AND "Mus musculus"[porgn]".  Click on FASTA for the first entry. The following 479 AA protein sequence is displayed:
 
-![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20Pax3%20protein%20%5BMus%20musculus%5D%20-%20Protein%20-%20NCBI.png, "PAX3 protein sequence")
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20Pax3%20protein%20%5BMus%20musculus%5D%20-%20Protein%20-%20NCBI.png, "Mouse PAX3 protein sequence")
 
 Backtrace (click the back button for the browser) to see the web page with the first 20 of 1816 entries. Now, click on Homo Sapiens in the species/Taxon box on the right hand side top. Note the search details: "Pax3[All Fields] AND "Homo sapiens"[porgn]". Click on FASTA for the third entry. The following 479 AA protein sequence is displayed:
 
-![alt text]()
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20paired%20box%20protein%20Pax-3%20isoform%20PAX3%20%5BHomo%20sapiens%5D%20-%20Protein%20-%20NCBI.png "Human PAX3 protein sequence)
+
+
