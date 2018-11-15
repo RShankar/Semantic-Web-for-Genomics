@@ -1,3 +1,7 @@
 Chapter 3 of Cristianini and Hahn's book uses the example of a master regulatory gene called *eyeless*. A master regulatory gene produces proteins that control large cascades of other genes that produce a complex feature (in this case: an eye). *Eyeless* controls 2000+ genes. In 1994, Gehring turned it on in different parts of the body of a fruitfly and non-functioning eyes sprouted in those areas. These master regulatory genes appear in different species (e.g., mice and humans) for the same purpose. The human version (*aniridia*) is identical to the fruitfly *eyeless* gene in certain key segments. One key part: *PAX* (paired-box) domain - 128 AA (amino acid) long, which binds specific sequences of DNA. Conserved for 600 My (Million years). Another common element - the *HOX* (homeobox) domain - 60 AA long and is found in 0.2%+ of vertebrate genes. Such a situation is typical, with genes shared across distantly related species. 
 
 For more on HOX and PAX, with help from GO ontology, go [here](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Tools.md)
+
+Use of BLAST to find orthologs: Go the NCBI Sequence Identifiers [web page](https://www.ncbi.nlm.nih.gov/genbank/sequenceids/) and enter *Pax3*  which appears for the house mouse species (see the Tools.md file). A total of 1816 entries appear, from different species (see Taxon on the right hand side). Screen capture is given below:
+
+![alt text](
