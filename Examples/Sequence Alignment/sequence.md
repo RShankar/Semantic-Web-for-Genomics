@@ -5,3 +5,7 @@ For more on HOX and PAX, with help from GO ontology, go [here](https://github.co
 Use of BLAST to find orthologs: Go the NCBI Sequence Identifiers [web page](https://www.ncbi.nlm.nih.gov/genbank/sequenceids/) and enter *Pax3*  which appears for the house mouse species (see the Tools.md file). A total of 1816 entries appear, from different species (see Taxon on the right hand side). Screen capture is given below:
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20Pax3%20-%20Protein%20-%20NCBI.png "PAX3 Sequence Finder on NCBI")
+
+Clicking on 'Mus musculus' on the right hand side gives only for the house mouse. Note the change in 'search Details' to: "Pax3[All Fields] AND "Mus musculus"[porgn]." Click on FASTA for the first entry. The following is displayed:
+
+![alt text]()
