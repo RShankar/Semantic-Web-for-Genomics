@@ -2,10 +2,14 @@ Chapter 3 of Cristianini and Hahn's book uses the example of a master regulatory
 
 For more on HOX and PAX, with help from GO ontology, go [here](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Tools/Tools.md)
 
-Use of BLAST to find orthologs: Go the NCBI Sequence Identifiers [web page](https://www.ncbi.nlm.nih.gov/genbank/sequenceids/) and enter *Pax3*  which appears for the house mouse species (see the Tools.md file). A total of 1816 entries appear, from different species (see Taxon on the right hand side). Screen capture is given below:
+Use of BLAST to find orthologs: Go the NCBI Sequence Identifiers [web page](https://www.ncbi.nlm.nih.gov/genbank/sequenceids/) and enter *Pax3*  which appears for the house mouse species (see the Tools.md file). Choose 'Protein' in the drop down menu to the left of the search window. A total of 1816 entries appear, from different species (see Taxon on the right hand side). Screen capture is given below:
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20Pax3%20-%20Protein%20-%20NCBI.png "PAX3 Sequence Finder on NCBI")
 
-Clicking on 'Mus musculus' on the right hand side gives only for the house mouse. Note the change in 'search Details' to: "Pax3[All Fields] AND "Mus musculus"[porgn]." Click on FASTA for the first entry. The following is displayed:
+Clicking on 'Mus musculus' on the right hand side gives only for the house mouse. Note the change in 'search Details' to: "Pax3[All Fields] AND "Mus musculus"[porgn]".  Click on FASTA for the first entry. The following 479 AA protein sequence is displayed:
+
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20Pax3%20protein%20%5BMus%20musculus%5D%20-%20Protein%20-%20NCBI.png, "PAX3 protein sequence")
+
+Backtrace (click the back button for the browser) to see the web page with the first 20 of 1816 entries. Now, click on Homo Sapiens in the species/Taxon box on the right hand side top. Note the search details: "Pax3[All Fields] AND "Homo sapiens"[porgn]". Click on FASTA for the third entry. The following 479 AA protein sequence is displayed:
 
 ![alt text]()
