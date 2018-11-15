@@ -14,4 +14,6 @@ Backtrace (click the back button for the browser) to see the web page with the f
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20paired%20box%20protein%20Pax-3%20isoform%20PAX3%20%5BHomo%20sapiens%5D%20-%20Protein%20-%20NCBI.png "Human PAX3 protein sequence")
 
+Go to the BLAST site and choose the [blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins) tab (for protein sequence alignment). Click on the "Align two or more sequences." Copy the two protein sequences from above (including the comment line that starts with ">" at the start of the sequence). Here is the screen at that moment:
 
+![alt text]()
