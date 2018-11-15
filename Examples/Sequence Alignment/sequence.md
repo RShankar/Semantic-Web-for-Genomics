@@ -20,4 +20,4 @@ Go to the BLAST site and choose the [blastp](https://blast.ncbi.nlm.nih.gov/Blas
 
 Click on the "BLAST" icon at the bottom left hand side. Make sure the box for 'show results in a new window' next to this icon is clicked. Check out the 'Descriptions' section. E value is 0.0 (excellent significance level!) and 99% Identities. Here is the screen:
 
-![alt text]("match of PAX3 proteins from human and mouse genomes")
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20NCBI%20Blast%20NP_852122%201%20paired%20box%20protein%20Pax-3%20isoform.png "match of PAX3 proteins from human and mouse genomes")
