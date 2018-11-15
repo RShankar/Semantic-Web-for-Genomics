@@ -17,3 +17,7 @@ Backtrace (click the back button for the browser) to see the web page with the f
 Go to the BLAST site and choose the [blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins) tab (for protein sequence alignment). Click on the "Align two or more sequences." Copy the two protein sequences from above (including the comment line that starts with ">" at the start of the sequence). Here is the screen at that moment:
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Sequence%20Alignment/Screenshot_2018-11-15%20Protein%20BLAST%20Align%20two%20or%20more%20sequences%20using%20BLAST.png "Sequence Alignment for two PAX3 orthologs")
+
+Click on the "BLAST" icon at the bottom left hand side. Make sure the box for 'show results in a new window' next to this icon is clicked. Check out the 'Descriptions' section. E value is 0.0 (excellent significance level!) and 99% Identities. Here is the screen:
+
+![alt text]("match of PAX3 proteins from human and mouse genomes")
