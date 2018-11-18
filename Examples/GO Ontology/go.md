@@ -2,6 +2,10 @@ Figure 2 in Chapter 3 of the GO book is used as the starting point for this disc
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Protege%20GO:0003993Annot.png "Protege with Go.owl and Annotations for a GO term")
 
+A regulator example is shown in Protege for GO:0003991 here:
+
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Regulator%20Example%20GO:0003991.png "Regulator pathways in OntoGraph in Protege")
+
 The same is obtained via AmiGO2 and QuickGO tools as follows:
 
 Start at AmiGo2 [home page](http://amigo.geneontology.org/amigo/dd_browse). Type in GO:0003993 in the Quick Search box. Choose the first entry there. We will get a list of annotations (see below screens for all species and just for humans). Annotation is the process of assigning GO terms to gene products.
