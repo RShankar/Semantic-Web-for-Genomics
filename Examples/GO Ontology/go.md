@@ -20,6 +20,8 @@ To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (Un
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/UniProt%20Contributor%20list_Pho3%20not%20there.png "UniProtKB contibutions to annotations for GO:0003993")
 
+Column 11 (Fig. 2/ text book) provides a synonym for the identifier in column 2 (P00519, for PH03) as YBR092C. This can be seen at the UniProtKB database page for [PH03](https://www.uniprot.org/uniprot/P24031)
+
 **QuickGO term history information**: Instead of following up on GO:0003993, let us follow this for GO:0000346, from where evidence for GO: 0003993 was obtained. For this, start at AmiGO2 home page again. On the search results page, on the left hand side, near the top, see this entry: History - See term history for GO:0000346 at QuickGO. Click on the QuickGo link to get this screen:
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Ancestor%20Chart%20QuickGO%20Term%20GO%200000346.png "Ancestor chart at QuickGo for GO:0000346")
