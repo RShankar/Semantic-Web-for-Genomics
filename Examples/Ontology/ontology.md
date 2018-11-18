@@ -4,4 +4,4 @@ An example shown here is for marking up automobile data on Internet pages for au
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/Toyo%20Auris%20Web%20page.png "Toyota European Division")
 
-![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/EuropeToyotaOntologymarkup.png, "HTML with schema.org annotation")
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/EuropeToyotaOntologymarkup.png "HTML with schema.org annotation")
