@@ -4,3 +4,12 @@ Figure 2 in Chapter 3 of the GO book is used as the starting point for this disc
 
 The same is obtained via AmiGO2 and QuickGO tools as follows:
 
+Start at AmiGo2 [home page](http://amigo.geneontology.org/amigo/dd_browse). Type in GO:0003993 in the Quick Search box. Choose the first entry there.
+
+This leads to this screen: 
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/AmiGO%202%20Term%20Details%20for%20acid%20phosphatase%20activity%20(GO%200003993).png "All species annotations for GO:0003993")
+
+The screen below shows annotations for GO:0003993 just for humans. Note the filter entry on the left hand side:
+
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/AmiGO%202%20Term%20Details%20for%20Human%20acid%20phosphatase%20activity%20(GO%200003993).png "Homo Sapiens annotations for GO:0003993"
+
