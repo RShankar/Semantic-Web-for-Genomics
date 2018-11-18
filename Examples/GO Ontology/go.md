@@ -16,13 +16,15 @@ The screen below shows annotations for GO:0003993 just for humans. Note the filt
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/AmiGO%202%20Term%20Details%20for%20Human%20acid%20phosphatase%20activity%20(GO%200003993).png "Homo Sapiens annotations for GO:0003993")
 
-To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (UniProtKB in this case). Result is this list of annotations (note that PHO3 in Fig. 2 is not listed here - because of the NOT identifier in column 4 of GAF (shown as row #4)) ; but there are two other PHO proteins -annotations for them would not have asserted the NOT identifier):
+To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (UniProtKB in this case). Result is this list of annotations (note that PHO3 in Fig. 2 is not listed here - because of the NOT identifier in Field 4 of GAF) ; but there are two other PHO proteins -annotations for them would not have asserted the NOT identifier):
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/UniProt%20Contributor%20list_Pho3%20not%20there.png "UniProtKB contibutions to annotations for GO:0003993")
 
-Column 11 (Fig. 2/Text book) provides a synonym for the identifier in column 2 (P00519, for PH03) as YBR092C. This can be seen at the UniProtKB database page for [PH03](https://www.uniprot.org/uniprot/P24031)
+Field 11 (Fig. 2/Text book) provides a synonym for the identifier in column 2 (P00519, for PH03) as YBR092C. This can be seen at the UniProtKB database page for [PH03](https://www.uniprot.org/uniprot/P24031)
 
-Column 13(Fig 2/Text book) identifies the taxon as [4932](https://www.ncbi.nlm.nih.gov/taxonomy/4932), the NCBI Id for the organism (Yeast, in this case) in which this gene is found. 
+Field 13(Fig 2/Text book) identifies the taxon as [4932](https://www.ncbi.nlm.nih.gov/taxonomy/4932), the NCBI Id for the organism (Yeast, in this case) in which this gene is found. 
+
+Fields 6,7, and 8 in the GAF file descrive the evidence used to assert the annotation. Field 7 indicates the evidence code as IMP (Inferred from Mutant Phenotype). This is one of the 5 EXP codes (IDA, IPI, IMIP, IGI, and IEP) that are held in high regard by the community, as they are based on **experimental evidence**. Prefer them in enrichment analysis, gene mapping to specific functions, or its involvement in a specific biological pathway. Use them also for setting up trustworthy training sets in machine learning.  Figure 3/Text Book in Ch. 3 (pp. 32) lists also curated non-experimental annotation codes (14) and automatically assigned annotations (IEA). For IEA, there is an online reference to learn more. 
 
 **QuickGO term history information**: Instead of following up on GO:0003993, let us follow this for GO:0000346, from where evidence for GO: 0003993 was obtained. For this, start at AmiGO2 home page again. On the search results page, on the left hand side, near the top, see this entry: History - See term history for GO:0000346 at QuickGO. Click on the QuickGo link to get this screen:
 
