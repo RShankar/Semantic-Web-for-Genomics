@@ -14,4 +14,4 @@ Another relevant example: Travelsites such as [Travelocity](https://www.traveloc
 
 Its use: 
 
-[!alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/Screenshot_2018-11-18%20FLL%20to%20ATL%20Flights%20Travelocity.png "Travelocity airfares compared")
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/Screenshot_2018-11-18%20FLL%20to%20ATL%20Flights%20Travelocity.png "Travelocity airfares compared")
