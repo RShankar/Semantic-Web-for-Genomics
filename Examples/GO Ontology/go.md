@@ -16,11 +16,10 @@ The screen below shows annotations for GO:0003993 just for humans. Note the filt
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/AmiGO%202%20Term%20Details%20for%20Human%20acid%20phosphatase%20activity%20(GO%200003993).png "Homo Sapiens annotations for GO:0003993")
 
-To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (UniProtKB in this case). Result is this list of annotations (note that PHO3 is no longer listed - the book was probably written in 2016; now, in 2018, they have pruned the list):
+To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (UniProtKB in this case). Result is this list of annotations (note that PHO3 is no longer listed - the book was probably written in 2016; now, in 2018, they have pruned the list of that entry; but there are two other PHO proteins):
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/UniProt%20Contributor%20list_Pho3%20not%20there.png "UniProtKB contibutions to annotations for GO:0003993")
 
+**QuickGO term history information**: Instead of following up on GO:0003993, let us follow this for GO:0000346, from where evidence for GO: 0003993 was obtained. For this, start at AmiGO2 home page again. On the search results page, on the left hand side, near the top, see this entry: History - See term history for GO:0000346 at QuickGO. Click on the QuickGo link to get this screen:
 
-On the left hand side, near the top, see this entry: History - See term history for GO:0003993 at QuickGO. Click on the QuickGo link to get this screen:
-
-![alt text]()
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Ancestor%20Chart%20QuickGO%20Term%20GO%200000346.png "Ancestor chart at QuickGo for GO:0000346)
