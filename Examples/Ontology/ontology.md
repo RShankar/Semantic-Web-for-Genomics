@@ -6,8 +6,12 @@ An example shown here is for marking up automobile data on Internet pages for au
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/EuropeToyotaOntologymarkup.png "HTML with schema.org annotation")
 
-How will this be used? Internet Bots (automated software) can download the embedded information automatically to create a table that lists similar features across different car manufacturers and brands. 
+**How will this be used?** Internet Bots (automated software) can download the embedded information automatically to create a table that lists similar features across different car manufacturers and brands. 
 
 Another relevant example: Travelsites such as [Travelocity](https://www.travelocity.com/). 
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/Travelocity%20HTML%20with%20Schema.org.png "Travelocity site with schema.org annotation")
+
+Its use: 
+
+[!alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/Ontology/Screenshot_2018-11-18%20FLL%20to%20ATL%20Flights%20Travelocity.png "Travelocity airfares compared")
