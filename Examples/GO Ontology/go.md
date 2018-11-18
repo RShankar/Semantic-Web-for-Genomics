@@ -22,4 +22,4 @@ To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (Un
 
 **QuickGO term history information**: Instead of following up on GO:0003993, let us follow this for GO:0000346, from where evidence for GO: 0003993 was obtained. For this, start at AmiGO2 home page again. On the search results page, on the left hand side, near the top, see this entry: History - See term history for GO:0000346 at QuickGO. Click on the QuickGo link to get this screen:
 
-![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Ancestor%20Chart%20QuickGO%20Term%20GO%200000346.png "Ancestor chart at QuickGo for GO:0000346)
+![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Ancestor%20Chart%20QuickGO%20Term%20GO%200000346.png "Ancestor chart at QuickGo for GO:0000346")
