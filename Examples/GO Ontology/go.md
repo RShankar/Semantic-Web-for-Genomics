@@ -16,7 +16,7 @@ The screen below shows annotations for GO:0003993 just for humans. Note the filt
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/AmiGO%202%20Term%20Details%20for%20Human%20acid%20phosphatase%20activity%20(GO%200003993).png "Homo Sapiens annotations for GO:0003993")
 
-To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (UniProtKB in this case). Result is this list of annotations (note that PHO3 is not listed - because of the NOT identifier in column 4 of GAF (shown as row #4)) ; but there are two other PHO proteins -annotations for them would not have asserted the NOT identifier):
+To match up with the book's Fig. 2 in Ch. 3, I filtered by the 'contributor' (UniProtKB in this case). Result is this list of annotations (note that PHO3 in Fig. 2 is not listed here - because of the NOT identifier in column 4 of GAF (shown as row #4)) ; but there are two other PHO proteins -annotations for them would not have asserted the NOT identifier):
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/UniProt%20Contributor%20list_Pho3%20not%20there.png "UniProtKB contibutions to annotations for GO:0003993")
 
