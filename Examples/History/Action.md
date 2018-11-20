@@ -1,0 +1,1 @@
+Use of GO Annoation: Chr 3 human gene sequence with that for *Aspergillus* for the protein phenylalanine homogentisate. Show that it is a 52% match of a 901 bp long sequence. Two mutations at positions 690 and 901 cause a rare disease called alkaptonuria. Match up with DO (Disease Ontology) and/or HPO (Human phenome ontology) for this part. 
