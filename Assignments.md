@@ -12,7 +12,7 @@ Assignment 3: Same project topic; determine gene and gene products across all ac
 
 Assignment 4: Apply GO for pathway enrichment analysis for your set of differential protein markers. Expand search and narrow down. This may require the help of other students in the class. Note their contribution and they may have to be either acknowledged or accepted as co-authors for the project report
 
-Project report: Your publishable final report. You and other students are the first and ensuing authors, with me (Dr. Shankar) as the last author. These may become chapters in a book and/or be published as individual conference papers. Either way, you will get full credit. All the work will also be published at a Github site on Genomics Analysis. 
+Project report: Your publishable final report. You and other students are the first and ensuing authors, with me (Dr. Shankar) as the last author. These may become chapters in a book and/or be published as individual conference papers. Either way, you will get full credit. All the work will also be published at a Github site on Genomics Analysis. You can also use R/Python for creating a 'reproducible research' report - researchers find such a report more useful; If you wish to develop a tool, talk to me. 
 
 Atherosclerosis project topics:
 1. Blood cells, clotting cascade
