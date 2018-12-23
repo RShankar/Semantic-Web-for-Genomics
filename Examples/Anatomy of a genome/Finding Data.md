@@ -7,4 +7,4 @@
 
 To search for the first one, start [here](https://www.ncbi.nlm.nih.gov/nuccore/). Enter this in the seach window: Homo sapiens neanderthalensis mitochondrial D-loop . Hit the Search button. Pick the first entry (367 bp long). its accession number is listed there is: FM866397.1 . Genbank output is [here](https://www.ncbi.nlm.nih.gov/nuccore/FM866397.1?report=genbank). FASTA output is [here](https://www.ncbi.nlm.nih.gov/nuccore/FM866397.1?report=fasta). This 2009 version is longer by 22 bp, as compared to the book's version (pre-2007) and is from Spain (earlier one: from Russia). Fourth entry corresponds to the book's entry with an accession # of AF254446.1. 
 
-The search function seems to be comprehensive and intuitive, unlike the link for genome [browsing](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). 
+The search function seems to be comprehensive and intuitive, unlike the link for genome [browsing](https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/). I think it is case sensitive (did not accept homo sapien), but accepted a common term: Human. Here is the resulting [link](https://www.ncbi.nlm.nih.gov/genome/51).
