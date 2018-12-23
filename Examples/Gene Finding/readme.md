@@ -1,6 +1,6 @@
 Chapter 2 of Cristianini and Hahn:
 
-Funfact: Lee Rowen won the GeneSeep in 2003 by guessing the number of human genes to be 25,947, way lower than most others, but close the final count. Today, the number of protein-coding genes is  estimated to be [19,000-20,000](https://en.wikipedia.org/wiki/Human_genome).  
+Funfact: Lee Rowen won the GeneSweep in 2003 by guessing the number of human genes to be 25,947, way lower than most others, but close to the final count. Today, the number of protein-coding genes is  estimated to be [19,000-20,000](https://en.wikipedia.org/wiki/Human_genome).  
 
 Protein molecules are used in many tasks (signaling to structure). Degradases cut molecules no longer needed by cell, while ligases bind molecules together to build  functional elements. Hemogobin, a protein, carries oxygen in red blood cells; insulin, another protein, communicates between organs. Proteins are formed  from chains of simpler molecules called Amino Acids (AAs). A typical protein has 200-300 AAs. Proteins fold rapidly into 3-D shape that determines its function. There are only 20 AAs (symbols not used: B, J, O, U, X, z). Like the 5' and 3' orientation of DNA string, AAs have N and C-terminus. Directionality is important. 
 
