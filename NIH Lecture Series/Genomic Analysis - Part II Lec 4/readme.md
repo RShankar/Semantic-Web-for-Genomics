@@ -17,5 +17,5 @@ A second aspect is the pattern matching. Example in the slides: [FY]-x-C-x(2)-{V
   * Click on species on the P450 page. Eukaryotes are in purple color. Valuable resource for comparative genomics
   * Click on External database link on the P450 page --> pfam and choose [Prosite](https://prosite.expasy.org/cgi-bin/prosite/prosite-search-ac?PDOC00081).  Link to expert; consensus pattern. 
 
-**[Conserved Domain Database (CDD)]()**: uses pfam and 4 other dbs. uses RPS-BLAST. Use both pfam and cdd for your analysis. 
+**[Conserved Domain Database (CDD)](https://www.ncbi.nlm.nih.gov/Structure/index.shtml)**: uses pfam and 4 other dbs. uses RPS-BLAST. Use both pfam and cdd for your analysis. 
 
