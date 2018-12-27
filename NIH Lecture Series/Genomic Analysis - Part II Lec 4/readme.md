@@ -17,7 +17,9 @@ A second aspect is the pattern matching. Example in the slides: [FY]-x-C-x(2)-{V
   * Click on species on the P450 page. Eukaryotes are in purple color. Valuable resource for comparative genomics
   * Click on External database link on the P450 page --> pfam and choose [Prosite](https://prosite.expasy.org/cgi-bin/prosite/prosite-search-ac?PDOC00081).  Link to expert; consensus pattern. 
 
-**[Conserved Domain Database (CDD)](https://www.ncbi.nlm.nih.gov/Structure/index.shtml)**: uses pfam and 4 other dbs. uses RPS-BLAST. Use both pfam and cdd for your analysis.  Use Conserved Domain --> CD Search. [Link](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi). Paste the following. 
+**[Conserved Domain Database (CDD)](https://www.ncbi.nlm.nih.gov/Structure/index.shtml)**: uses pfam and 4 other dbs. uses RPS-BLAST. From NCBI: CDD is a protein annotation resource that consists of a collection of well-annotated multiple sequence alignment models for ancient domains and full-length proteins. These are available as position-specific score matrices (PSSMs) for fast identification of conserved domains in protein sequences via RPS-BLAST.
+
+Use both pfam and cdd for your analysis.  Use Conserved Domain --> CD Search. [Link](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi). Paste the following. 
 
 For CDD, dataset to use:
 
@@ -44,5 +46,7 @@ YPGILPSPTCGYPHPQFTLRPVPFPTLSVDRGFGAGRSQSVSEGPTTQQPPMLPPSQPEHSSSEEAPSRT
 IPTACVRPTHPLRSFANPLLPPPMSAIEPKVPYTPLLSQPGPTLPKTHVKTASLGLAGKARSPLLPVSVP
 TAPEVSEESHKPTEDSANVYEQDDLSEQMASLEGLMKQLNAITGS**AF
 
-List of domain hits is represented on the results page. Click on the + sign next to the first domain listed there: 	Neogenin_C. It expands to a details section. E value is 2.26<sup>-127</sup>, a very signficant value. **Note**: the match is only partial, starting at PPDLW on 5th line from the bottom going up to the end of the sequence (last two: AF missing), a total length of 292 bases. Marked in bold in the sequence above. 
+List of domain hits is represented on the results page. Click on the + sign next to the first domain listed there: 	Neogenin_C. It expands to a details section. E value is 2.26<sup>-127</sup>, a very signficant value. **Note**: the match is only partial, starting at PPDLW on 5th line from the bottom going up to the end of the sequence (last two: AF missing), a total length of 292 bases. Marked in bold in the sequence above. Red - match; blue - mismatch (at the site). 
+
+Click on the accesion number: pfam06583 to find more info. This new [page](https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?ascbin=8&maxaln=10&seltype=2&uid=pfam06583) has sequence alignment info for various proteins/species combinations. 
 
