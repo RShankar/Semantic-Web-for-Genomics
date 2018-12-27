@@ -65,7 +65,9 @@ CCTTTAAATGGTTTTCCGGGAAAAAAAAAGTGGGAAATTGGTCTCCTCCCAAATCTCAAAAAAGAAAAAA
 TTTTTGTAAAAAGGGATCTTTTTGGGCACCGGGGGGAAAAAAAAATTTGAAAACTTCCCCCACCCCCCTT
 TTTCCCTCTTTGGGGACTCCTTCCCAAATTCCGGGGACATCCCCCCT
 
-Change to 'Rhesus' from 'Human' at the top left. Result:
+Change to 'Rhesus' from 'Human' at the top left. Result is a web page with stats on score, start, end, identity score, chromosome #, and span (length of the match). 
+
+
   ACTIONS      QUERY    SCORE START   END QSIZE IDENTITY  CHROM  STRAND  START       END   SPAN
 ------------------------------------------------------------------------------------------------
 browser details CB312814   445     5   488   747    96.7%  chr6   -    43524149  43529147   4999
