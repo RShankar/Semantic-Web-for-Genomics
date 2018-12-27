@@ -1,0 +1,369 @@
+/*
+================================================
+Created by genome.gov Team (Version III)
+Modified by Mark Fredriksen
+Last updated on 10-20-2017
+================================================
+*/
+
+html, body {
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+
+body {
+	BACKGROUND: url(/include/genome_public/images/bg_home-dir.jpg) repeat-x #FFF;
+}
+
+IMG
+  {
+    BORDER: none;
+  }
+
+.hidden {
+	position:absolute;
+	left:-10000px;
+	top:auto;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+
+#header {
+	position:relative;
+	width:1000px;
+	MARGIN:0 5px; /* Modified to left-align content */
+	z-index:2;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:75%;
+	font-weight:normal;
+	line-height:155%;
+}
+
+#globalfooter {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, Sans-serif;
+    FONT-SIZE: .7em;
+	COLOR: #0D447D;
+	BORDER-TOP: #BBBBBB 1px dashed;
+    WIDTH: 100%;
+	WHITE-SPACE: nowrap;
+	CLEAR: both;
+}
+
+#globalfooter A:link, #globalfooter A:active, #globalfooter A:visited
+  {
+	COLOR: #0D447D;
+	TEXT-DECORATION: none;
+  }
+
+#globalfooter A:hover
+  {
+	TEXT-DECORATION: underline;
+  }
+
+#globalfooter #logos
+  {
+	WIDTH: 200px;
+	PADDING-TOP: 3px;
+	TEXT-ALIGN: right;
+	VERTICAL-ALIGN: middle;
+	FLOAT: left;
+	DISPLAY: inline;
+  }
+  
+#globalfooter #logos IMG
+  {
+	MARGIN: 0px 5px;
+  }
+
+#globalfooter #nav
+  {
+	VERTICAL-ALIGN: middle;
+	TEXT-ALIGN: left;
+	PADDING: 22px 0px 0px 0px;
+	FLOAT: left;
+	DISPLAY: inline;
+  }
+
+#globalsearch {
+	position:absolute;
+	top:25px;
+	left:570px;
+}
+
+#globalsearch input#keyword, #globalsearch input#query {
+    border:1px solid #ccc;
+    border-radius:4px;
+    width:250px;
+    height:25px;
+    padding:5px;
+    line-height:22px;
+    font-size:14px;
+}
+
+#navigation2 {
+	margin: 0;
+	height:32px;
+	min-width:810px;
+	z-index:3;
+}
+
+#navigation2 a {
+	height:32px;
+	text-align:center;
+	display: block;
+	vertical-align:middle;
+	text-decoration: none;
+	/*border-left:1px solid white;*/
+	border-right:1px solid #999;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:13px;/*110%;*/
+	font-weight:bold;
+	color:#333;
+	line-height:32px;
+}
+
+#navigation2 ul {
+	margin:0;
+	padding:0
+}
+
+#navigation2 ul ul {
+	background:white;
+}
+
+#navigation2 li li a {
+	height:auto;
+	padding:0px 8px 2px 8px;
+	text-align:left;
+	vertical-align:middle;
+	float:none;
+	text-decoration: none;
+	border:0;
+	font-size:95%;
+	font-weight:normal; /*DS changed from bold to normal*/
+	color:#004D71;
+	line-height:18px; /*DS changed from 23 to 18*/
+}
+
+#navigation2 li a:hover {
+	color:black
+}
+
+#navigation2 li:hover a {
+	color:white
+}
+
+#navigation2 a:hover {
+	/*text-decoration: underline;*/
+	/*background: url(/include/genome_public/images/template/bg_nav.gif);*/
+	color:white;
+	text-decoration:underline;
+}
+
+#navigation2 li li a:link, #navigation2 li li a:visited {
+	color:black/*#004D71;*/
+}
+
+#navigation2 li li a:hover {
+	/*text-decoration: underline;*/
+	background: none;
+	background-color:gainsboro;
+	color:black;/*#004D71;*/
+	text-decoration:underline;
+}
+
+#navigation2 #der:hover, #navigation2 #der a.selected {
+	background-image:url(/include/genome_public/images/bg_button_der.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #dir:hover, #navigation2 #dir a.selected {
+	background-image:url(/include/genome_public/images/bg_button_dir.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #health:hover, #navigation2 #health a.selected {
+	background-image:url(/include/genome_public/images/bg_button_health.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #education:hover, #navigation2 #education a.selected {
+	background-image:url(/include/genome_public/images/bg_button_education.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #issues:hover, #navigation2 #issues a.selected {
+	background-image:url(/include/genome_public/images/bg_button_issues.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #newsroom:hover, #navigation2 #newsroom a.selected {
+	background-image:url(/include/genome_public/images/bg_button_newsroom.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #careers:hover, #navigation2 #careers a.selected {
+	background-image:url(/include/genome_public/images/bg_button_careers.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #about:hover, #navigation2 #about a.selected {
+	background-image:url(/include/genome_public/images/bg_button_about.jpg);
+	background-repeat:repeat-x;
+	color:white
+}
+
+#navigation2 #foryou:hover {
+	background-color:#990; 
+	color:white
+}
+
+/* Genome.gov RESEARCH HOME PAGE ONLY TEMPLATE STYLES */
+.genome-home_content
+  {
+    FLOAT: left;
+	DISPLAY: block;
+	WIDTH: 48%;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: .8em;
+	COLOR: #993300;
+	PADDING-TOP: 10px;
+  }
+
+.genome-home_content .home_menu H1
+  {
+	BACKGROUND-COLOR: #930C1B; /* red */
+	/*BACKGROUND-COLOR: #BC9806; /* yellow */
+  }
+
+.genome-home_content LI P.text_indent, .genome-home_content LI DIV.text_indent
+  {
+	COLOR: #333;
+	MARGIN: 5px 12px 10px;
+  }
+
+.genome-home_content LI A:link, .genome-home_content LI A:active, .genome-home_content LI A:visited
+  {
+	COLOR: #993300;
+  }
+
+/* Genome.gov NAVIGATION TEMPLATE STYLES */
+#navigation_container
+  {
+	/*POSITION: absolute;
+	LEFT: 0;*/
+    float: left;
+	PADDING: 0 0;
+	WIDTH: 195px;
+	HEIGHT: 100%;
+  }
+
+.global_navigation-nhgri_top
+  {
+	MARGIN: 40px 15px -20px 15px;
+	WIDTH: 165px;
+	TEXT-ALIGN: left;
+	DISPLAY: block;
+	VERTICAL-ALIGN: top;
+	FONT-FAMILY: Arial, Verdana, Tahoma, sans-serif;
+	FONT-SIZE: .7em;
+	COLOR: #993300;
+	BACKGROUND-COLOR: #EFEFEF;
+	BORDER: #CCCCCC 1px solid;
+  }
+
+.global_navigation-nhgri_top H1
+  {
+	LINE-HEIGHT: normal;
+	PADDING: 3px 4px 3px 8px;
+	MARGIN: 0px 0px 4px 0px;
+	DISPLAY: block;
+	FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+	FONT-SIZE: 1.1em;
+	FONT-WEIGHT: bold;
+	COLOR: #000000;
+	BACKGROUND-COLOR: #ECD6CB;
+	BORDER-BOTTOM: #CCCCCC 1px solid;
+  }
+
+.global_navigation-nhgri_top H1:after
+  {
+    CONTENT: "."; 
+    DISPLAY: block; 
+    HEIGHT: 0; 
+    CLEAR: both; 
+    VISIBILITY: hidden;
+  }
+
+.global_navigation-nhgri_top UL
+  {
+	MARGIN: 5px 0px;
+	PADDING: 0px;
+	LIST-STYLE: none;
+  }
+
+.global_navigation-nhgri_top UL UL
+  {
+	MARGIN: 0px;
+  }
+
+.global_navigation-nhgri_top UL UL UL
+  {
+	MARGIN: 0px 0px -3px 0px;
+  }
+
+.global_navigation-nhgri_top LI
+  {
+	MARGIN: 4px 0px 0px 0px;
+	PADDING: 0px 0px 0px 7px;
+	BORDER-BOTTOM: #EFEFEF 1px solid;
+  }
+
+.global_navigation-nhgri_top LI LI
+  {
+	PADDING: 0px 0px 0px 10px;
+  }
+
+.global_navigation-nhgri_top SPAN.highlight, .global_navigation-nhgri_top .highlight
+  {
+	DISPLAY: block;
+	BACKGROUND-COLOR: #DDDDDD;
+  }
+
+.global_navigation-nhgri_top LI SPAN.highlight, .global_navigation-nhgri_top LI .highlight
+  {
+	MARGIN: 0px 0px 0px -7px;
+	PADDING: 3px 3px 3px 7px;
+  }
+
+.global_navigation-nhgri_top LI LI SPAN.highlight, .global_navigation-nhgri_top LI LI .highlight
+  {
+	MARGIN: 0px 0px 0px -17px;
+	PADDING: 3px 3px 3px 17px;
+  }
+
+.global_navigation-nhgri_top LI LI LI SPAN.highlight, .global_navigation-nhgri_top LI LI LI .highlight
+  {
+	MARGIN: 0px 0px 0px -27px;
+	PADDING: 3px 3px 3px 27px;
+  }
+
+.global_navigation-nhgri_top A:link, .global_navigation-nhgri_top A:active, .global_navigation-nhgri_top A:visited
+  {
+	COLOR: #993300;
+  }
+
+.global_navigation-nhgri_top A:hover
+  {
+    TEXT-DECORATION: none;
+  }
