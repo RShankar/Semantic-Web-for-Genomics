@@ -8,7 +8,7 @@ First aspect is profile construction. Example: has 12 sequences 10 base long. Th
 
 A second aspect is the pattern matching. Example in the slides: [FY]-x-C-x(2)-{VA}-x-H(3). []- one of the specified AAs; x is any; {} - not any of those; (n) - n of those. 
 
-*Pfam*: protein domains with structural, functional, or evolutionary importance. Db: Pfam A. Experts at EBI maintain this. Program: HMMER. A hit is highly likely to be positive. Go to Pfam [site](http://pfam.xfam.org/). View a Clan - to find superfamilies. Click on Sequence Search. 
+**Pfam**: protein domains with structural, functional, or evolutionary importance. Db: Pfam A. Experts at EBI maintain this. Program: HMMER. A hit is highly likely to be positive. Go to Pfam [site](http://pfam.xfam.org/). View a Clan - to find superfamilies. Click on Sequence Search. 
   * On the new page, click on 'here' to select options. In practice change E to 0.001, but for now left at 1 to see what we get. Submit - result page shows it is for Cytochrome P450. Match is from position 41 to 500. Click on the green at the top with the label of 'p450'. You will see details on p450 and its superfamily. 
   * Go back to the result page and click on the Show/hide button. SEQ is the submitted sequence. The HMM sequences is the consensus seq that matches SEQ. letter- exact match; + - conservative substitution; PP- posteriori probability matching pecentage: * - 100%, 1- 5 to 15%, higher the better; See the heatmap - green is good. 
   * Click on Family link - go to the P450 page and click on the pfam link at the top to find more info. Interpro has similar info. Also, on the P450 page, at the top, it says: 1285 architectures and 132K sequences. 
@@ -17,5 +17,5 @@ A second aspect is the pattern matching. Example in the slides: [FY]-x-C-x(2)-{V
   * Click on species on the P450 page. Eukaryotes are in purple color. Valuable resource for comparative genomics
   * Click on External database link on the P450 page --> pfam and choose [Prosite](https://prosite.expasy.org/cgi-bin/prosite/prosite-search-ac?PDOC00081).  Link to expert; consensus pattern. 
 
-*[Conserved Domain Database (CDD)]()*: uses pfam and 4 other dbs. uses RPS-BLAST. Use both pfam and cdd for your analysis. 
+**[Conserved Domain Database (CDD)]()**: uses pfam and 4 other dbs. uses RPS-BLAST. Use both pfam and cdd for your analysis. 
 
