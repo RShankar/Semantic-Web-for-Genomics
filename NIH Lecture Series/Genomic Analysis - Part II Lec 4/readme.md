@@ -50,3 +50,4 @@ List of domain hits is represented on the results page. Click on the + sign next
 
 Click on the accesion number: pfam06583 to find more info. This new [page](https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?ascbin=8&maxaln=10&seltype=2&uid=pfam06583) has sequence alignment info for various proteins/species combinations. 
 
+Now the converse: PSI-BLAST. Used to id distantly related sequences that are possibly missed during a standard BLAST search. 
