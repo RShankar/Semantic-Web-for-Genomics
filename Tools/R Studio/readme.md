@@ -1,6 +1,6 @@
 I will document here the installation of R Studio and R on Linux, and R packages useful for GO. 
 
-####R installation:
+#### R installation:
 
 sudo apt install r-base-core
 > enter password; installs>
@@ -14,4 +14,4 @@ R
 q() 
 > *quit*
 
-####R Studio installation:
+#### R Studio installation:
