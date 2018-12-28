@@ -27,4 +27,4 @@ Download option: RStudio 1.1.463 - Ubuntu 16.04+/Debian 9+ (64-bit)
 
 Save, click to install, provide password. 
 
-R is installed.
+R Studio is installed. It, however, still pointed to the old R version, so Bioconductor would not load. I restarted the computer. That took care of that. However, if there is a need to link the latest R version and it is not /usr/bin/R, but in /usr/local/bin/R, then that needs to be explicitly indicated in a ~/.profile file with an environment variable declaration as such: export RSTUDIO_WHICH_R=/usr/local/bin/R . More on this is [here](https://support.rstudio.com/hc/en-us/articles/200486138-Changing-R-versions-for-RStudio-desktop).
