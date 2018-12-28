@@ -14,6 +14,10 @@ R
 q() 
 > *quit*
 
+This R version was 3.4.4. However, Bioconductor needs 3.5+
+Here is the link for that (for Ubuntu 18.0.4):https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04
+
+
 #### R Studio installation:
 Download site: https://www.rstudio.com/products/rstudio/download/#download
 
