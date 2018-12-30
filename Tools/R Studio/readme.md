@@ -46,12 +46,19 @@ Complete package list for Bioconductor is found [here](https://bioconductor.org/
 The tutorial requires ALL Affymetrix data. Package vignette is found [here](https://bioconductor.org/packages/release/data/experiment/html/ALL.html). The topGO.pdf indicates that several packages are loaded via a namespace and not attached. Meaning of that is given [here](https://stackoverflow.com/questions/14988722/in-r-what-does-loaded-via-a-namespace-and-not-attached-mean). 
 Now, continuing with the installation of all the packages listed on the last page of the topGo tutorial. 
 
+Note: Multiple packages can be loaded with the c() function for combining multiple names; however, I am doing one at a time, just as a precaution, to see whether any dependency problem arise. You should be able to combine them as follows, as an example, for the first three: c("ALL", "AnnotationDbi", "Biobase"), instead of their individual declarations as given below.
+
 ```R
 BiocManager::install("ALL", version = "3.8")
 BiocManager::install("AnnotationDbi", version = "3.8")
 BiocManager::install("Biobase", version = "3.8")
 BiocManager::install("BiocGenerics", version = "3.8")
 BiocManager::install("GO.db", version = "3.8")
+BiocManager::install("IRanges", version = "3.8")
+BiocManager::install("Rgraphviz", version = "3.8")
+BiocManager::install("S4Vectors", version = "3.8")
+BiocManager::install("S4Vectors", version = "3.8")
+
 
 ```
 
