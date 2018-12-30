@@ -42,5 +42,9 @@ BiocManager::install("topGO")
 ```
 
 More on BiocManager is found [here](https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocManager.html)
-
+Complete package list for Bioconductor is found [here](https://bioconductor.org/packages/release/bioc/)
+The tutorial requires ALL Affymetrix data. Package vignette is found [here](https://bioconductor.org/packages/release/data/experiment/html/ALL.html)
+```R
+BiocManager::install("ALL", version = "3.8")
+```
 
