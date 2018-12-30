@@ -9,10 +9,10 @@ R -version
 > R version 3.4.4 ...
 
 R
-> *in interactive mode: try 2+2, get the result of 4*
+> in interactive mode: try 2+2, get the result of 4
 
 q() 
-> *quit*
+> quit
 
 This R version was 3.4.4. TopGo is a Bioconductor package. However, Bioconductor needs 3.5+
 
