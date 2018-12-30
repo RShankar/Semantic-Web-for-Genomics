@@ -49,6 +49,9 @@ Now, continuing with the installation of all the packages listed on the last pag
 ```R
 BiocManager::install("ALL", version = "3.8")
 BiocManager::install("AnnotationDbi", version = "3.8")
+BiocManager::install("Biobase", version = "3.8")
+BiocManager::install("BiocGenerics", version = "3.8")
+BiocManager::install("GO.db", version = "3.8")
 
 ```
 
