@@ -43,8 +43,11 @@ BiocManager::install("topGO")
 
 More on BiocManager is found [here](https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocManager.html)
 Complete package list for Bioconductor is found [here](https://bioconductor.org/packages/release/bioc/)
-The tutorial requires ALL Affymetrix data. Package vignette is found [here](https://bioconductor.org/packages/release/data/experiment/html/ALL.html)
+The tutorial requires ALL Affymetrix data. Package vignette is found [here](https://bioconductor.org/packages/release/data/experiment/html/ALL.html). The topGO.pdf indicates that several packages are loaded via a namespace and not attached. Meaning of that is given [here](https://stackoverflow.com/questions/14988722/in-r-what-does-loaded-via-a-namespace-and-not-attached-mean). 
+Now, continuing with the installation of all the packages listed on the last page of the topGo tutorial. 
+
 ```R
 BiocManager::install("ALL", version = "3.8")
+
 ```
 
