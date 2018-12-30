@@ -32,6 +32,14 @@ R Studio is installed. It, however, still pointed to the old R version, so Bioco
 
 **Bioconductor**: From the topGo.pdf, execute this R code from RStudio:
 
+```R
+# Initial installation steps
+if (!requireNamespace("BiocManager", quietly=TRUE)) install.packages("BiocManager")
+BiocManager::install()
+if (!requireNamespace("BiocManager", quietly=TRUE))
+  +     install.packages("BiocManager")
+BiocManager::install("topGO")
+```
 
 More on BiocManager is found [here](https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocManager.html)
 
