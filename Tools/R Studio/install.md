@@ -55,4 +55,4 @@ BiocManager::install("S4Vectors", version = "3.8")
 
 
 ```
-There was a warning that the following packages could not be updated: cluster, manipulateWidget, and foreign. These are packages from CRAN repository. They are updated thus: In R Studio, go to Tools --> Install Packages. It will point to CRAN. Choose these packages from the long list there. 
+There was a warning that the following packages could not be updated: cluster, manipulateWidget, and foreign. These are packages from CRAN repository. They are updated thus: In R Studio, go to Tools --> Install Packages. It will point to CRAN. Choose these packages from the long list there. However this message continued: "installation path not writeable, unable to update packages: manipulateWidget, cluster, foreign." According to Bioconductor forum, this is not an error; points to the fact that those packages were installed earlier with admin rights. I have updated from CRAN. So, hopefully, I have taken care of the problem. If I need to resolve this issue later on, [read this]( https://stackoverflow.com/questions/41839214/installation-path-not-writable-r-unable-to-update-packages). 
