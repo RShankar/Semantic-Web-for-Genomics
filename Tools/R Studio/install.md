@@ -42,6 +42,9 @@ Now, continuing with the installation of all the packages listed on the last pag
 
 Note: Multiple packages can be loaded with the c() function for combining multiple names; however, I am doing one at a time, just as a precaution, to see whether any dependency problem arise. You should be able to combine them as follows, as an example, for the first three: c("ALL", "AnnotationDbi", "Biobase"), instead of their individual declarations as given below.
 
+Note: All software packages are accessed from [here](https://bioconductor.org/packages/3.8/bioc/); All annotation/database packages are accessed from [here](https://bioconductor.org/packages/3.8/data/annotation/)
+
+
 ```R
 BiocManager::install("ALL", version = "3.8")
 BiocManager::install("AnnotationDbi", version = "3.8")
@@ -51,7 +54,9 @@ BiocManager::install("GO.db", version = "3.8")
 BiocManager::install("IRanges", version = "3.8")
 BiocManager::install("Rgraphviz", version = "3.8")
 BiocManager::install("S4Vectors", version = "3.8")
-
+BiocManager::install("genefilter", version = "3.8")
+BiocManager::install("graph", version = "3.8")
+BiocManager::install("hgu95av2.db", version = "3.8")
 
 
 ```
