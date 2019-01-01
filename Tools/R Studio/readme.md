@@ -11,6 +11,8 @@ Annotations and feature data: From the ExpressionSetIntroduction: A specialized 
 
 Accessing Data Elements: See the ExpressionSetIntroduction, section 5.1.
 
+Affymetric microarray chip used for the ALL analysis has a corresponding format package at Bioconductor: hgu95av2.db. It is attached here with a more descriptive name. 
+
 I have developed a Json tutorial that might be useful here. [Link](https://github.com/shankar4/Functional-Genomics/blob/master/bioistar%20handbook/JSONTutorial.R).
 
 The ALL data is normalized which helps in providing differential gene profiles. it uses the rma() function. More [here](http://felixfan.github.io/RMA-Normalization-Microarray/). There are tradeoffs. Will discuss in class. 
