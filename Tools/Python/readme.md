@@ -2,7 +2,8 @@ I will document here the installation of Python on Linux and a set of Python pac
 
 This is based on Chapter 16 in the GO Handbook. There is an interactive version of the tutorial, including solutions, at this site: http://gohandbook.org . GAF format info is [here](http://geneontology.org/page/go-annotation-file-gaf-format-21)
 
-I will document the steps here:
+I will document the steps here: I already had Anaconda and Python 3.6.3 on my Linux system. I will assume that you can install those.
+
 
 
 
