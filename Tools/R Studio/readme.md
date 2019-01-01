@@ -5,7 +5,7 @@ topGo uses org.Hs.eg.db - which is "Genome wide annotation for Human, primarily 
 
 topGo's tutorial in PDF and my R code for the 'Quick Start' are enclosed. The tutorial is based on an article (enclosed) which identified differential gene profiles for ALL patients that may help personalize therapy to improve survival. 
 
-Biobase of the Bioconductor project contains standardized data structures to represent genomic data. The *Expression Set* class "is designed to combine several different sources of information into a single convenient structure. An ExpressionSet can be manipulated (e.g., subsetted, copied) conveniently, and is the input or output from many Bioconductor functions." (From the attached PDF on ExpressionSet class). 
+Biobase of the Bioconductor project contains standardized data structures to represent genomic data. The *Expression Set* class "is designed to combine several different sources of information into a single convenient structure. An ExpressionSet can be manipulated (e.g., subsetted, copied) conveniently, and is the input or output from many Bioconductor functions." (From the attached PDF on ExpressionSet class). eSet is a superset defined in Biobase in 2006 to coordinate high through-put and phenotype data. It includes, in addition to expression data, SnpSet. The included PDF shows developers (not users) how to extend the eSet for new type of high through-put data. 
 
 I have developed a Json tutorial that might be useful here. [Link](https://github.com/shankar4/Functional-Genomics/blob/master/bioistar%20handbook/JSONTutorial.R).
 
