@@ -95,7 +95,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ModuleNotFoundError: No module named 'goatools'
->>> 
+>>> quit()
 ```
 So, I have to set PYTHONPATH before I can go further. 
 
