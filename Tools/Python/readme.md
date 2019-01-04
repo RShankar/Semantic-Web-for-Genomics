@@ -76,10 +76,10 @@ More on running the Jupyter notebook is here: https://jupyter.readthedocs.io/en/
 
 Download the Notebook from this site: https://nbviewer.jupyter.org/urls/dessimozlab.github.io/go-handbook/GO%20Tutorial%20in%20Python%20-%20Solutions.ipynb . Copy into JupyterNotebook folder.
 
-Open (in the browser page of jupyter) this notebook.
+Open (in the browser page of jupyter) this notebook. Import errors: Module not found. May need to set python path etc.
 
-```
-I will try first in the interactive mode in a terminal.
+So, I will try first in the interactive mode in a terminal.
+
 ```
 $ python
 ```
@@ -91,9 +91,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 >>> 2 +2
 4
+>>> from goatools import obo_parser
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'goatools'
 >>> 
 ```
- 
+So, I have to set PYTHONPATH before I can go further. 
 
  
 
