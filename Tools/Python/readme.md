@@ -134,4 +134,11 @@ import xmltodict`
 No module named 'xmltodict' error
 sudo pip install xmltodict```
 ```
-
+ModuleNotFoundError: No module named 'Bio'`
+```
+pip3 install biopython
+import Bio 
+```
+ImportError: cannot import name 'GOEnrichmentStudy'
+This Github repository has the details to address this: https://github.com/tanghaibao/goatools
+Yet to try
