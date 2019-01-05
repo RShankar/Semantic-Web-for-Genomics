@@ -131,5 +131,7 @@ install_aliases()
 from urllib.request import urlopen
 import xmltodict`
 ```
-
+No module named 'xmltodict' error
+sudo pip install xmltodict```
+```
 
