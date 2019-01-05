@@ -97,9 +97,10 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'goatools'
 >>> quit()
 ```
-So, I installed goatools
+So, I installed goatools and a package for visualization
 ```python
 $ pip install goatools
+$ pip install visualisedictionary
 ```
 
 
