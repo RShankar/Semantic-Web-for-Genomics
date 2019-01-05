@@ -112,11 +112,15 @@ Trying pkg-config
     No package 'libcgraph' found
 I tried to insall 'libcgraph'. To find out a solution...
 From Stackoverflow and Ask Ubuntu, this seems to be the way:
+```
 sudo apt install python-pydot python-pydot-ng graphviz
+```
 It did not help. Error messages about pygraphviz. More installs....  
+```
 sudo apt-get install python-dev graphviz libgraphviz-dev pkg-config
 pip install pygraphviz
 pip install visualisedictionary
+```
 It installed successfully.
 
 
