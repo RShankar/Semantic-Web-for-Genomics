@@ -132,9 +132,11 @@ from urllib.request import urlopen
 import xmltodict`
 ```
 No module named 'xmltodict' error
-sudo pip install xmltodict```
+```
+sudo pip install xmltodict
 ```
 ModuleNotFoundError: No module named 'Bio'`
+
 ```
 pip3 install biopython
 import Bio 
