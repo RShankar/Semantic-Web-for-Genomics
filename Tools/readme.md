@@ -1,1 +1,3 @@
-Read Tools.md
+My experience so far indicates that R is much better than Python for genomics analysis, in terms of the ease of setting up a productive environemnt for research explorations. The whole process was highly predictable with easy-to-use tutorial and reference documents in support. See the Bioconductor website for R;  biopython for Python seems to be a similar destination. Python also changed radically when they moved from Version 2 to 3; in order to use many of the Python 2 packages in Python 3, there are additional downloads. 
+
+The GO Handbook uses Python in Chapter 16 to demonstrate enrichment analysis. Such enrichment analysis and visualization can also be done in R. Plan to rewrite with R. 
