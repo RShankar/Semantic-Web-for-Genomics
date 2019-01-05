@@ -97,7 +97,11 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'goatools'
 >>> quit()
 ```
-So, I have to set PYTHONPATH before I can go further. 
+So, I installed goatools
+```python
+pip install goatools
+```
+
 
  
 
