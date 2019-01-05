@@ -122,6 +122,14 @@ pip install pygraphviz
 pip install visualisedictionary
 ```
 It installed successfully.
-
+Next: ModuleNotFoundError: No module named 'future'. 
+If you already have Python 3 code, you can instead use future to offer Python 2 compatibility with almost no extra work.
+Here are the steps:
+```
+from future.standard_library import install_aliases
+install_aliases()
+from urllib.request import urlopen
+import xmltodict`
+```
 
 
