@@ -8,7 +8,7 @@ These assignments require reading of a few journal articles and reviews. I will 
 
 I will set up **Github repository** for each of you. Please post your assignments at Github, so other students can review and learn. 
 
-Assignment 1: Choose one of the atherosclerosis project topics below; determine gene and gene products relevant, using online tools. Learn the overall genome to phenome mapping as relevant to your topic. Write a 5 page report, as a regular conference paper (with sections as follows: Title, authors, abstract, background, methods, results, discussion, conclusions, references, and appendices)
+Assignment 1: Choose one of the atherosclerosis project topics below; determine gene and gene products relevant, using online tools, such as PubMed. Learn the overall genome to phenome mapping as relevant to your topic. Write a 5 page report, as a regular conference paper (with sections as follows: Title, authors, abstract, background, methods, results, discussion, conclusions, references, and appendices)
 
 Assignment 2: Continue with your chosen atherosclerosis project topic; determine gene and gene products relevant, but limiting to experimentally verified phenotypes, and explained with physiology/pathology. This is the minimal subset of the genes/gene products. Include comments on other studernts' Assignment 1 essays, as relevant to your topic.
 
