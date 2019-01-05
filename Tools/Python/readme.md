@@ -99,7 +99,7 @@ ModuleNotFoundError: No module named 'goatools'
 ```
 So, I installed goatools
 ```python
-pip install goatools
+$ pip install goatools
 ```
 
 
