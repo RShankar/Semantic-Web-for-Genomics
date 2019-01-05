@@ -102,7 +102,15 @@ So, I installed goatools and a package for visualization
 $ pip install goatools
 $ pip install visualisedictionary
 ```
+the visualization package did not install. 
 
+Error message:
+Trying pkg-config
+    Package libcgraph was not found in the pkg-config search path.
+    Perhaps you should add the directory containing `libcgraph.pc'
+    to the PKG_CONFIG_PATH environment variable
+    No package 'libcgraph' found
+I tried to insall 'libcgraph'. To find out a solution...
 
  
 
