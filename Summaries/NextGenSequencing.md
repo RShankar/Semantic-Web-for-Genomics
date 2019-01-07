@@ -25,4 +25,39 @@ In 2006, 454 collaborated with researchers to obtain 1 Mbases of genomic data fr
 
 ##### Illumina Genome Analyzer:
 
+The "sequencing-by-synthesis" technology of Illumina was developed by Solexa, UK, in 1998. Solexa released their first genome analyzer in 2006. It sequenced 1 B bases in a single run of 4d. Illumina acquired Solexa and has produced rapid upgrades. In 2014, the HiSeq 2500 produced up to 1000 GB of data from a set of ~2 B template molecules as 2 x 100-bp paired-end reads in 6d. 
+Solexa modified Sanger by using modified dNTPs (deoxyribonucleotide triphosphates) that contained a terminator that blocks further polymerization, so a single base can be added to a growing DNA copy strand. The reaction is also conducted on a very large number of different template molecules spread out on a solid surface. The terminator is fluorescent, allowing for camera detection. Ony a single color is used; so, the four dNTPs are added in a separate cycle of DNA synthesis and imaging. Solexa yields uniform length and have average error rates of <1%. 
+
+Illumina also amplifies the template molecules on a solid surface (with 1 M cop8ies of each template in tight physical clusters on the flow-cell surface). They use image analysis to resolve adjacent clusters which may overlap because of the random distribution of the molecules. If unable to resolve, both cluster data are discarded. 
+
+Three human genomes (each from a Chinese male, African male, and an AML patient's tumor and normal skin cells) were published in 2008. For the African project, **4 B paired-end 35-base reads produced a total of 1354 Gb of data (30X coverage of the human genome) in a period of 8 wk on 6 GA1 instruments, at a total cost of $0.25 M for reagents.** Illumina GA technology could produce significantly more genomic seq data at lower cost than Applied Biosystems' Sanger method. They also showed that short reads of 36 b with high coverage can discover SNPs and structural variants. 
+
+MiSeq, introduced in 2014, is a small benchtop sequencer, suited for small labs. HiSeq 2500  is widely used in core labs, producing 10 -1000 GB of data per run from 2 B template molecules. The **HiSeq X produces 18 TB of data - dedicated for large-scale human WGS.** It can produce 18000 human genomes (at 30X coverage) per year at approximate cost of **$1,000 per genome**. 
+
+##### ABI Solid
+
+To summarize soon
+
+##### Ion Torrent
+
+To summarize soon
+
+##### Experimental Applications
+
+Sequencing is a flexible data collection tool, similar to microscopy. It can be used in extremely diverse range of scientific applications by changing the type of sample and the manner of its preparation. 
+
+**Earlier Apps from traditional Sanger sequencing and automated flourescence in sequencing**: 
+* What proteins are encoded by this fragment of DNA? 
+* What are the phylogenetic relationships among this group of organisms based on the seqs of this conserved gene? 
+* What is the entire gene content and organization of the genome of this organism?
+* What genes are being expressed by gthe organism (or tissue)?
+
+**NGS's extended reach**:
+* Compare genome sequences from many different individuals of the same species to identify all variants (**GWAS**)
+* Compare genomes of tumors (or precancerous leions) with normal germline cells of the same patient
+* Use on RNA (thus replacing **microarrays**), to measure the entire gene expression profile of any sample of cells (**RNA-seq**).
+* Discover previously unannotated genes and quantitative measurement of altetrnative transcripts
+* Provide a more accurate and higher resolution readout for Chromatic immunoprecipitation studies (**ChiP-seq**).
+* Study epigenetic changes in DNA methylation and modifications of histone proteins. 
+* Study environmental and medical samples to identify microorganisms present and their genetic profile (**metegenomics**).
 
