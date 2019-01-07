@@ -10,6 +10,8 @@ A regulator example is shown in Protege for GO:0003991 here:
 
 The same is obtained via AmiGO2 and QuickGO tools as follows:
 
+*Note:* AmiGo2 and QuickGo have been updated since the time I documented here! The information is the same, but presented in a much more intuitive way. Will demo in the class!
+
 Start at AmiGo2 [home page](http://amigo.geneontology.org/amigo/dd_browse). Type in GO:0003993 in the Quick Search box. Choose the first entry there. We will get a list of annotations (see below screens for all species and just for humans). Annotation is the process of assigning GO terms to gene products.
  
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/AmiGO%202%20Term%20Details%20for%20acid%20phosphatase%20activity%20(GO%200003993).png "All species annotations for GO:0003993")
