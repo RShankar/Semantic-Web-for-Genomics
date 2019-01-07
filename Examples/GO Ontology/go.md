@@ -1,4 +1,6 @@
-Figure 2 in Chapter 3 of the GO book is used as the starting point for this discussion. The Go identifier to track is: GO:0003993. Here is the screenshot within Protege, with appropriate tools and windows used:
+Figure 2 in Chapter 3 of the GO book is used as the starting point for this discussion. The Go identifier to track is: GO:0003993. On my Linux system with 16GB RAM, there was no problem in loading GO.owl; but on my HP PC with 12 GB, I made this change to get it to work: Protege.l4j is the config file you will find in the downloaded Protege folder. Opened in Notepad and changed '-Xmx500M' to '-Xmx1024M'.  
+
+Here is the screenshot within Protege, with appropriate tools and windows used:
 
 ![alt text](https://github.com/RShankar/Semantic-Web-for-Genomics/blob/master/Examples/GO%20Ontology/Protege%20GO:0003993Annot.png "Protege with Go.owl and Annotations for a GO term")
 
