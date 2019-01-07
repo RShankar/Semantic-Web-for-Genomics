@@ -1,15 +1,15 @@
 This is summary from Chapter 1 of "Next-Generation DNA-Sequencing Informatics", by S.M. Brown (ed), 2nd edition, 2015.
 
-#####History: 
+##### History: 
 
 All of DNA sequencing for the  Human Genome Project (1995-2003) was performed with methods based on Sanger's method invented in 1975. It involved RNA synthesis and enzymatic digestion. It relies on the synthesis of new DNA fragments using DNA polymerase to extend a short synthetic oligonucleotide primer, complementary to the known part of the target,  hybridized to a single-stranded DNA template. Sanger sequencing method was revolutionary in many ways: it could be applied to any DNA molecule and it could be used to determine long DNA sequences. But it had two major limitations: it needed an oligonucleotide primer - so some known DNA sequence near the unknown DNA sequence to be determined; the 'random extension' of the primer does not generate fragments of all desired lengths. Sanger improved his method in the face of competition from the Maxim-Gilbert sequencing method. The improved method starts with a single-stranded DNA template hybridized with a short complementary oligonuclotid primer. Maxim-Gimlert sequencing method was more complex and used toxic reagents, and lost out to Sanger's method. Sanger technology next replaced radioactive labels with fluorescent dyes. This helped develop semiautomated DNA sequencers by Hood, Hunkapiller and others, which was commercialized by Applied Biosysems Inc. (ABI). **These ABI sequencers provided nearly all of the data for the Human Genome Project**.
 
-#####Cloing for Sequencing:
+##### Cloing for Sequencing:
 
 DNA sequenciong using the Sanger's method is capable of reading ~ 500-800 bases in a single 'read.' This is a limitation of both the Sanger primer extension and resolution limitation in electrophoresis. But most interesting biological nucleic acid molecules (such as genes, mRNA transcripts, plasmids, and genomes) are much longer than 800 bp. DNA sequencing projects usually involve some strategy of breaking DNA molecules into shorter pieces, sequencing them, and then using **bioinformatics** tools to assemble the data into complete sequences of the target molecules.
 
 Hrnikoff (1984) developed a strategy to generate progressively smaller fragments of DNA by overlapping the reads to build a contiguous sequence (**contig**). All DNA sequencing methods generate errors; so, all started using overlapped seq reads over the entire target, ideally from both sides. **Consensus contig sequence** was the focus of software development during 1985-1995. **Fragment assembly** is similar to **sequence alignment** with reduced error rate. As software improved, it was realized that DNA could be **randomly sheared into a collection of unordered fragments**. These frags are then clones, sequenced, and assembled by using software to find ovefrlaps (**"shotgun sequencing"**). The frags have a poisson distribution across the target DNA molecule. So, a large # of DNA frags (8 t0 10 times the total length) must be sequenced to build a complet contig with adequate coverage of every base in the target molecule. This may still leave **gaps**, which can be reduced with a primer walking strategy (adds cost). 
 
-#####Next Generation Sequencing: 
+##### Next Generation Sequencing: 
 
 
