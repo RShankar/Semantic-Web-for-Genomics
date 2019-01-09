@@ -20,7 +20,7 @@ NGS may move DNA sequencing back into small labs: E.g., Illumina MiSeq and Ion T
 
 ##### 454: 
 
-NGS era started with the 2005 publication by 454 Life Sciences Corp of complete seq of the *Mycoplasma genitalium* and *Streptococcus Pneumoniae* genomes with 96% coverage and 99.6% accuracy. GS20, their first product, produced 25M high quality DNA seq per run, with reads of 80-120 bases long, a 10-fold improvement Vs Sanger systems from Applied Biosystems. In 2007, GS FLX improved to 100 Mbases per run with reads of 250 bases. In 2010, Titanium yielded 400-600 M bases  > 1M reads of 400 base length. They follos the shotgun strategy. *They used a 6 M gate FPGA coprocessor for signal processing in real-time*. 
+NGS era started with the 2005 publication by 454 Life Sciences Corp of complete seq of the *Mycoplasma genitalium* and *Streptococcus Pneumoniae* genomes with 96% coverage and 99.6% accuracy. GS20, their first product, produced 25M high quality DNA seq per run, with reads of 80-120 bases long, a 10-fold improvement Vs Sanger systems from Applied Biosystems. In 2007, GS FLX improved to 100 Mbases per run with reads of 250 bases. In 2010, Titanium yielded 400-600 M bases  > 1M reads of 400 base length. They followed the shotgun strategy. *They used a 6 M gate FPGA coprocessor for signal processing in real-time*. 
 In 2006, 454 collaborated with researchers to obtain 1 Mbases of genomic data from  fossil Neanderthals . **Advantage**: no need for cloning and efficient use of limited material. Also, good for **deep sequencing** of a specific target gene to find rare variants. 454 output in a custom format (SFF or Standard Flowgeram Format). NCBI has produced an open standard to read this data. 454 provides free software to read SFF to its customers. 
 
 ##### Illumina Genome Analyzer:
@@ -30,7 +30,7 @@ Solexa modified Sanger by using modified dNTPs (deoxyribonucleotide triphosphate
 
 Illumina also amplifies the template molecules on a solid surface (with 1 M cop8ies of each template in tight physical clusters on the flow-cell surface). They use image analysis to resolve adjacent clusters which may overlap because of the random distribution of the molecules. If unable to resolve, both cluster data are discarded. 
 
-Three human genomes (each from a Chinese male, African male, and an AML patient's tumor and normal skin cells) were published in 2008. For the African project, **4 B paired-end 35-base reads produced a total of 1354 Gb of data (30X coverage of the human genome) in a period of 8 wk on 6 GA1 instruments, at a total cost of $0.25 M for reagents.** Illumina GA technology could produce significantly more genomic seq data at lower cost than Applied Biosystems' Sanger method. They also showed that short reads of 36 b with high coverage can discover SNPs and structural variants. 
+Three human genomes (each from a Chinese male, African male, and an AML patient's tumor and normal skin cells) were published in 2008. For the African project, **4 B paired-end 35-base reads produced a total of 135 Gb of data (30X coverage of the human genome) in a period of 8 wk on 6 GA1 instruments, at a total cost of $0.25 M for reagents.** Illumina GA technology could produce significantly more genomic seq data at lower cost than Applied Biosystems' Sanger method. They also showed that short reads of 36 b with high coverage can discover SNPs and structural variants. 
 
 MiSeq, introduced in 2014, is a small benchtop sequencer, suited for small labs. HiSeq 2500  is widely used in core labs, producing 10 -1000 GB of data per run from 2 B template molecules. The **HiSeq X produces 18 TB of data - dedicated for large-scale human WGS.** It can produce 18000 human genomes (at 30X coverage) per year at approximate cost of **$1,000 per genome**. 
 
@@ -50,14 +50,14 @@ Sequencing is a flexible data collection tool, similar to microscopy. It can be 
 * What proteins are encoded by this fragment of DNA? 
 * What are the phylogenetic relationships among this group of organisms based on the seqs of this conserved gene? 
 * What is the entire gene content and organization of the genome of this organism?
-* What genes are being expressed by gthe organism (or tissue)?
+* What genes are being expressed by the organism (or tissue)?
 
 **NGS's extended reach**:
 * Compare genome sequences from many different individuals of the same species to identify all variants (**GWAS**)
 * Compare genomes of tumors (or precancerous leions) with normal germline cells of the same patient
 * Use on RNA (thus replacing **microarrays**), to measure the entire gene expression profile of any sample of cells (**RNA-seq**).
 * Discover previously unannotated genes and quantitative measurement of altetrnative transcripts
-* Provide a more accurate and higher resolution readout for Chromatic immunoprecipitation studies (**ChiP-seq**).
+* Provide a more accurate and higher resolution readout for Chromatic immunoprecipitation studies (**ChIP-seq**).
 * Study epigenetic changes in DNA methylation and modifications of histone proteins. 
 * Study environmental and medical samples to identify microorganisms present and their genetic profile (**metegenomics**).
 
