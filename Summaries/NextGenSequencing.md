@@ -55,7 +55,7 @@ Sequencing is a flexible data collection tool, similar to microscopy. It can be 
 **NGS's extended reach**:
 * Compare genome sequences from many different individuals of the same species to identify all variants (**GWAS**)
 * Compare genomes of tumors (or precancerous leions) with normal germline cells of the same patient
-* Use on RNA (thus replacing **microarrays**), to measure the entire gene expression profile of any sample of cells (**RNA-seq**).
+* Use on RNA (thus replacing **microarrays**), to measure the entire gene expression profile of any sample of cells (**[RNA-seq](https://en.wikipedia.org/wiki/RNA-Seq)**).
 * Discover previously unannotated genes and quantitative measurement of altetrnative transcripts
 * Provide a more accurate and higher resolution readout for Chromatic immunoprecipitation studies (**ChIP-seq**).
 * Study epigenetic changes in DNA methylation and modifications of histone proteins. 
