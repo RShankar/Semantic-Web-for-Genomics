@@ -16,7 +16,7 @@ Historians: **"When accumiulated knowledge or new technologies become sufficient
 
 NGS may move DNA sequencing back into small labs: E.g., Illumina MiSeq and Ion Torrent Personal Genome Machine (PGM). But these small labs will need sophisticated bioniformatics support.
 
-"NGS refers to massively parallel DNA sequencing technologies that simultaneously determine the sequence of DNA bases from many millions of DNA templates in a single biochemical reaction volume." Each template molecule is affixed to a solid surface in a spatially separate location and then clonally amplified to increase signal strength. This allows for the detection of rare variant sequences. Data produced are marked by technology-specific error patterns that can signficantly influence downstream analysis. For eg., read duplication because of PCR (polymerase chain reaction) artifacts of optical artifacts; **pyrosequencing** has insertion/deletion errors; and Sanger is inaccurate in regions with high GC content. 
+"NGS refers to massively parallel DNA sequencing technologies that simultaneously determine the sequence of DNA bases from many millions of DNA templates in a single biochemical reaction volume." Each template molecule is affixed to a solid surface in a spatially separate location and then clonally amplified to increase signal strength. This allows for the detection of rare variant sequences. Data produced are marked by technology-specific error patterns that can signficantly influence downstream analysis. For eg., read duplication because of PCR (polymerase chain reaction) artifacts or optical artifacts; **pyrosequencing** has insertion/deletion errors; and Sanger is inaccurate in regions with high GC content. 
 
 ##### 454: 
 
