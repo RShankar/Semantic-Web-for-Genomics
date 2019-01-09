@@ -53,7 +53,7 @@ Sequencing is a flexible data collection tool, similar to microscopy. It can be 
 * What genes are being expressed by the organism (or tissue)?
 
 **NGS's extended reach**:
-* Compare genome sequences from many different individuals of the same species to identify all variants (**GWAS**)
+* Compare genome sequences from many different individuals of the same species to identify all variants (**[GWAS](https://en.wikipedia.org/wiki/Genome-wide_association_study)**)
 * Compare genomes of tumors (or precancerous leions) with normal germline cells of the same patient
 * Use on RNA (thus replacing **microarrays**), to measure the entire gene expression profile of any sample of cells (**[RNA-seq](https://en.wikipedia.org/wiki/RNA-Seq)**).
 * Discover previously unannotated genes and quantitative measurement of altetrnative transcripts
