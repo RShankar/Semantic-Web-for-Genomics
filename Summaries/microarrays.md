@@ -25,5 +25,9 @@ Somne broad questions that can now be asked:
 
 *In silico* analysis will never substitute for in vitro and in vivo: There are certain dubious assumptions: 
 * Genetic reductionism: not all regulation can be inferred from DNA seq, based solely on the syntax of its seq elements. This is termed by the authors as "sequence-level reductionism."
+* Computability of complex biochemical phenomena: Protein folding problem is NP complete. Robust predictive models that can accurately predict the interactions of thousands or millions of these heterogeneous molecules and transitioniong from DNA to RNA to protein is challenging. Not realistic in the near future. "Interactional reductionism." They are, useful for educational purposes, not for defining future research.
+* Closed world hypothesis: Bioinformatics depends on the availability of a reliable and predictive and complete mechanistic model. Since our knowledge is incomplete, any deterministic models will be based on insufficient knowledge and will have behaviors that may diverge substantially and upredictably from those that actually occur. 
+
+Why Microarrays: 
 * 
 
