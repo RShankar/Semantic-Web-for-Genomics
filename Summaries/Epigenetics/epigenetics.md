@@ -26,7 +26,11 @@ It is relatively easy to id the precise location of each methylated C base in th
 
 Strome in **2014** showed that methylation mark can be passed on through cell divisions. So, some of the epigenetics can be inherited...
 
+**Chromatic remodeling**: Nucleosomes are not fixedd in place - they can slide along the DNA. Disassembly, reassembly, and movements of nucleosomes are carefully coordinated. Moving them apart, makes the chromatic less dense --> active genes. 
 
+RNA: Some RNA strands, not translated into proteins, have role in epigenetic regulation of gene activation. The longest one: **LncRNA** (long non-coding RNA) is 200 bases+ long and has this key function: where each type of epigenetic modfication should be attached to the chromatin. **piRNA** (PIWI-interacting RNA) are 26 to 31 bases long bind to complementary sequences in RNA that are reptitive and shut down the transcription (with help from PIWI protein and methyl molecules). **miRNA** (microRNA), 19 to 24 bases long, bind to complementary mRNA seqs, and prevent the translation to proteins. Mello and Fire discovered miRNA in 1998. Used **extensively** as a research tool today: Adding a miRNA specific to a protein will stop mRNA translation to that protein -- and that protein's function can then be individually studied. They wond the 2006 *Nobel Prize*, one of the shortest ever gaps between discovery and prize. 
+
+"Most regulatory RNAs are produced only in certain types of cell at certain stages of development or in response to changes in the cell environment, such as bacterial infection. The specific combination of regulatory RNAs present in each cell helps to define which genes are transcribed and which proteins are made." 
 
 
 
