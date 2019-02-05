@@ -1,0 +1,10 @@
+Notes from: Epigenetics - A Graphic Guide, 2017, by Cath Ennis and Oliver Pugh. It is a light-hearted and comic strip-oriented introduction to the field. 
+
+"about how the genes we inherit from our parents are controlled, and how they interact with our environment: how our genes make us, well, us."
+
+Almost every cell in our body contains its own copy of our unique version of the human genome. Mature red blood cells and cornified cells in the skin, hair, and nails contain no nucleus. The longest human Chr contains ~2600 protein coding genes; the smallest, just 140. 
+
+The double helix first wraps around a cluster of 8 small proteins called **histones**, which bind very tightly to DNA. Each individual unit of 8 histone (four types) proteins plus 146 bases of DNA == '**nucleosome**'. The DNA - nucleosome assembly looks like **beads on a string**. A fifth type of histone protein attaches to the linker DNA between nucleosomes. This compacts the assembly into a thicker strand. Stretched out end-to-end, DNA will be ~ 1.8 m long (5'). DNA + histones + scaffold proteins + other proteins + RNAs == **Chromatin**. 
+
+1962: Gurdon artifically reversed cell differentiation of a mature fully differentiated cell. This proved that such adult cells retail all the genetic material needed to produce every cell in the body. This disproved the 'use it or lose it' concept. Tijan in 1978 discovered **Transcription Factor** proteins, which help regulate gene activation. TFs bind specific DNA sequences near the genes, and interact with the transcription machinery. The combination of proteins so bound determine whether transcription takes place. Additional mechanism, **imprinting**, may also control certain genes (75 known in the human genome; 150 in the mouse genome). From Wikipedia,  " It is an epigenetic process that involves DNA methylation and histone methylation without altering the genetic sequence. These epigenetic marks are established ("imprinted") in the germline (sperm or egg cells) of the parents and are maintained through mitotic cell divisions in the somatic cells of an organism."
+
