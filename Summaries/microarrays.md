@@ -29,5 +29,14 @@ Somne broad questions that can now be asked:
 * Closed world hypothesis: Bioinformatics depends on the availability of a reliable and predictive and complete mechanistic model. Since our knowledge is incomplete, any deterministic models will be based on insufficient knowledge and will have behaviors that may diverge substantially and upredictably from those that actually occur. 
 
 Why Microarrays: 
-* 
+* Using only genomic DNA easily obtainable from a peripheral blood sample or a buccan smear, genetic epidemiologists can conduct association studies using microsatellite markers or SNPs to associate prognoses, diagnoses, or even biological function with a particular gene. 
+* there are more conventional genetic techniques of transgenic and misexpression whole-organism models of the function for various genes. 
+* Proteomic assays at the cellular level may be developing.
+* In contrast to linkage and associate studies, microarray studies are designed to measure directly the activity of the genes involvded in a particular mechamism or system rather than their association wigth a particular biological or clinical feature. Because of the long sequence of steps, the effects may be so small that any conceivable population study may not be able to detect them. There are good statistical techniques based on bonferroni method. But the criticism is still valid, as seen with 'missing heritability' discussion.
+* Cost of scrrening the genome of sufficiently large populations to achieve adequate statistical power was not possible then, but was  ten years after then (in 2011 or even earlier). Many GWAS studies were conducted in late 2000s.
+
+Another aspect of integrative genomics: Several kinds of info that we are missing by not including such measurements.  Expressokn microarrays are sufficiently well engineered and cost-effective to allow thousands of researchers to productively employ them to drive their investigations. *All measurements are point measurements and specific to that instant of time, state, and conditions*. 
+
+Biological caveats in mRNA measurements:
+* Transcriptome should be viewed as a pool of mRNA. Each type of mRNA is degraded at its specific rate. To determine 
 
