@@ -8,4 +8,4 @@ modERN: The model organism encyclopedia of regulatory networks (modERN) project 
 
 [REMC](http://www.roadmapepigenomics.org/): The Roadmap Epigenomics Mapping Consortium (ROADMAP) identified DNA methylation, histone modifications, chromatin accessibility, and small RNA transcripts in primary human tissues.
 
-GGR: The Genomics of Gene Regulation is a newly funded NIH project that will be hosting its data at this site.
+[GGR](https://www.genome.gov/27561317/): The Genomics of Gene Regulation is a newly funded NIH project that will be hosting its data at this site.
