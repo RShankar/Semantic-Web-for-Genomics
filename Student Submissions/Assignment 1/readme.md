@@ -1,6 +1,6 @@
 All student submissions will be provided eventually here. At present, only good representative submissions are included here.
 
-Assignment Description:
+Assignment Description: This was on literature search for genes pre-GWAS relevant to their chosen topic
 Addition on 1/22/19: This might interest you: Fleuren and Alkema: Application of text mining in the biomedical domain, Methods, 74 (2015), 97-106. I will include it in the Files section.
 
 Original Assignment:
